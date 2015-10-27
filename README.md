@@ -1,6 +1,8 @@
 # Reglas del Slack - Laraveles
 
-En Laraveles hace tiempo que iniciamos utilizando la herramienta **Slack** para brindar una atención más amigable y personalizado, dejando atrás las herramientas convencionales que vuelven el proceso aburrido. Es por ello que ha surgido la necesidad de crear reglas como guía para el comportamiento dentro de los canales para mantener la buena convivencia dentro de la comunidad. 
+En Laraveles hace tiempo que utilizamos la herramienta de mensajería instantánea `Slack` para brindar una atención más amigable, una comunicación más directa e instantánea, dejando atrás las herramientas convencionales (como el IRC) que vuelven el proceso aburrido y están algo anticuadas en cuanto a funcionalidad. 
+
+Es debido a la gran aceptación del servicio que ha surgido la necesidad de crear una serie de reglas como guía para el comportamiento dentro de los canales para mantener la buena convivencia dentro de la comunidad.
 
 #I. Channels en General
   1. Queda estrictamente prohibido mensajes con contenido racista, porno o hacking.
