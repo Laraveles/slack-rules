@@ -6,6 +6,8 @@ Es debido a la aceptación del servicio (participación e incremento de usuarios
 
 ### 1. Respeto. Como en todas partes, tu libertad termina donde afecta a otra.
 
+Slack permite crear mini sociedades permitiendo compartir información o facilitar la comunicación sobre temas determinados. Como sociedad, se espera que se actúe en ella del mismo modo que sería aceptable en cualquier otra sociedad. Se aplicarán las mismas normas de convivencia que en cualquier otra sociedad moderna por lo que acosos, insultos, contenido racista o inmoral o cualquier otra actuación que perturbe la armonía y tranquilidad de las conversaciones quedan totalmente fuera de lugar y serán amonestadas.
+
 ### 2. Sentido común. No todo es lo que parece.
 
 La mensajería escrita siempre ha contado con la dificultad de acompañar a una expresión escrita con una entonación adecuada o un lenguaje no verbal que ayude a aclarar si una afirmación `X` es de caracter humorístico, serio, amigable, etc. Es por esto que pedimos sentido común para prevenir mal interpretaciones.
@@ -17,6 +19,12 @@ Slack viene equipado con el popular set de iconos `emoji` y permite su utilizaci
 ### 4. Las mayúsculas. Denotan falta de "cultura de internet".
 
 El uso de mayúsculas está muy restringido en el mundo de internet en general y la mensajería escrita no es una excepción. Las mayúsculas suelen ser interpretadas con intenciones imperativas o como "gritos" más que como una forma de resalto. Como siempre, de nuevo apelar al sentido común sobre si EN OCASIONES puede merecer la pena utilizarlas para resaltar partes de contenido concretas.
+
+### X. 
+
+### X. A trabajar. No sacrifiques tu productividad por el Slack.
+
+Slack puede producir adicción igual que cualquier otra plataforma (WhatsApp, Facebook, ...). Desde Laraveles rogamos se haga un uso responsable de la herramienta -como se debería hacer con cualquier otra- para que la productividad del usuario no vaya en detrimento. 
 
 #I. Channels en General
   1. Queda estrictamente prohibido mensajes con contenido racista, porno o hacking.
