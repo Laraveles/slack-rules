@@ -10,6 +10,8 @@ Slack permite crear mini sociedades permitiendo compartir información o facilit
 
 Aunque queda bastante claro, se mencionará que acosos, insultos, contenido racista, pornográfico o inmoral o cualquier otra actuación que perturbe la armonía y tranquilidad de las conversaciones quedan totalmente fuera de lugar y serán amonestadas.
 
+> **NOTA:** Esto se aplica al servicio en todos sus ámbitos: mensajes, contenido de perfiles, imágenes o cualquier otro tipo de contenido que pueda pasar por la plataforma.
+
 ### 2. Sentido común. No todo es lo que parece.
 
 La mensajería escrita siempre ha contado con la dificultad de acompañar a una expresión escrita con una entonación adecuada o un lenguaje no verbal que ayude a aclarar si una afirmación `X` es de caracter humorístico, serio, amigable, etc. Es por esto que pedimos sentido común para prevenir mal interpretaciones.
