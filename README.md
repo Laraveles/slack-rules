@@ -24,7 +24,9 @@ Slack viene equipado con el popular set de iconos `emoji` y permite su utilizaci
 
 El uso de mayúsculas está muy restringido en el mundo de internet en general y la mensajería escrita no es una excepción. Las mayúsculas suelen ser interpretadas con intenciones imperativas o como "gritos" más que como una forma de resalto. Como siempre, de nuevo apelar al sentido común sobre si EN OCASIONES puede merecer la pena utilizarlas para resaltar partes de contenido concretas.
 
-### X. 
+### X. Spam. El odiado contenido publicitario.
+
+Con esta regla no se pretende cohibir a ningún usuario de compartir cualquier tipo de contenido. De nuevo, rogamos se haga un uso responsable y se aplique el sentido común. Desde la comunidad se intenta ayudar a todos los usuarios que la conforman y no se tomará como spam si un usuario comparte por ejemplo su más reciente aplicación que, a pesar de ser de pago, puede resultar de utilidad para algún usuario, siempre y cuando sea una alusión esporádica.
 
 ### X. A trabajar. No sacrifiques tu productividad por el Slack.
 
