@@ -39,13 +39,21 @@ Todos los usuarios que forman la comunidad están en ella de forma voluntaria y 
 A todos nos gusta que nos agradezcan una acción aunque haya sido llevada a cabo de forma voluntaria o altruista. Esa sensación puede producir hasta cierta adicción, por lo que un usuario que se siente agradecido es más probable que ayude o colabore con otros que uno que no se siente así. Por otro lado, exigencias y falta de agradecimiento derivan en pérdidas de interés, por lo que de un modo u otro, afectará a otros usuarios.
 
 #I. Channels en General
+  
   X 1. Queda estrictamente prohibido mensajes con contenido racista, porno o hacking.
+  
   X 2. Solo se puede utilizar mayúsculas para destacar una idea y no para un texto entero o parte de el.
+  
   X 3. El uso de Reacciones, solo se permitirán 2 Reacciones por usuario en cada comentario.
-  4. Está Prohibido Enviar contenido Masivos (Spam)
+  
+  X 4. Está Prohibido Enviar contenido Masivos (Spam)
+  
   X 5. Queda estrictamente prohibido el acoso sexual a CUALQUIER intengrante del Canal.
-  6. Queda Prohibido el uso de Multicuentas.
-  7. Se debe esperar el tiempo de expulsión correspondiente, si encuentras que tu expulsión ha sido injusta. Puedes utilizar el foro en el apartado corerspondiente.
-  8. Las coversaciones deben de apegarse al topico relacionado en cada canal.
-  9. Procura que tu comentario vaya en un solo párrafo no generes varias lineas con una sola duda, es más fácil entenderte si lo haces todo en un solo párrafo.
-  X 10. En tu perfil, avatar y texto personal queda prohibido tener contenidos racistas y/o pornográficos.
+  
+6. Queda Prohibido el uso de Multicuentas.
+
+7. Se debe esperar el tiempo de expulsión correspondiente, si encuentras que tu expulsión ha sido injusta. Puedes utilizar el foro en el apartado corerspondiente.
+8. Las coversaciones deben de apegarse al topico relacionado en cada canal.
+9. Procura que tu comentario vaya en un solo párrafo no generes varias lineas con una sola duda, es más fácil entenderte si lo haces todo en un solo párrafo.
+ 
+X 10. En tu perfil, avatar y texto personal queda prohibido tener contenidos racistas y/o pornográficos.
