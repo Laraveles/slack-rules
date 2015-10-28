@@ -6,7 +6,9 @@ Es debido a la aceptación del servicio (participación e incremento de usuarios
 
 ### 1. Respeto. Como en todas partes, tu libertad termina donde afecta a otra.
 
-Slack permite crear mini sociedades permitiendo compartir información o facilitar la comunicación sobre temas determinados. Como sociedad, se espera que se actúe en ella del mismo modo que sería aceptable en cualquier otra sociedad. Se aplicarán las mismas normas de convivencia que en cualquier otra sociedad moderna por lo que acosos, insultos, contenido racista o inmoral o cualquier otra actuación que perturbe la armonía y tranquilidad de las conversaciones quedan totalmente fuera de lugar y serán amonestadas.
+Slack permite crear mini sociedades permitiendo compartir información o facilitar la comunicación sobre temas determinados. Como sociedad, se espera que se actúe en ella del mismo modo que sería aceptable actuar en cualquier sociedad moderna. Se aplicarán las mismas normas de convivencia generales y que el mismo sentido común permite descubrir.
+
+Aunque está claro, se mencionará que acosos, insultos, contenido racista o inmoral o cualquier otra actuación que perturbe la armonía y tranquilidad de las conversaciones quedan totalmente fuera de lugar y serán amonestadas.
 
 ### 2. Sentido común. No todo es lo que parece.
 
