@@ -38,6 +38,21 @@ Todos los usuarios que forman la comunidad están en ella de forma voluntaria y 
 
 A todos nos gusta que nos agradezcan una acción aunque haya sido llevada a cabo de forma voluntaria o altruista. Esa sensación puede producir hasta cierta adicción, por lo que un usuario que se siente agradecido es más probable que ayude o colabore con otros que uno que no se siente así. Por otro lado, exigencias y falta de agradecimiento derivan en pérdidas de interés, por lo que de un modo u otro, afectará a otros usuarios.
 
+### X. No Tengas más de una cuenta.
+
+Todos los usuarios que forman la comunidad están en ella para poderte ayudar y ser ayudados, sin embargo muchos se confundirían en un día de ven con una cuenta y al siguiente tienes otra, por esto y para mantener el orden en el slack te pedimos que no cres más de una cuenta o intentes hacerte pasar por otra persona.
+
+### X. ¿Fuíste Sancionado Injustamente?
+  
+Todos los usuarios están de forma voluntaria y tambien sabemos que se pueden cometer errores, para ello si crees que tu expulsión ha sido un error, puedes escribir a `slack@laraveles.com` donde se dará seguimiento a tu caso asignandoselo a un administrador.
+
+    **Los tiempos de Expulsión quedan a discreción del Moderador y/o Administrador**
+
+### X. No Pierdas el Tópico de un Canal
+
+A cualquiera le molesta que le interrumpan una charla que esta interesante y más si es una duda que tengas y te están apoyando por ende, te pedimos que no interrumpas o pierdas el hilo con temás diferentes a los que se tratan en los respectivos canales, todas las dudas se tratan de resolver u orientar para su solución.
+
+
 #I. Channels en General
   
   X 1. Queda estrictamente prohibido mensajes con contenido racista, porno o hacking.
@@ -50,10 +65,12 @@ A todos nos gusta que nos agradezcan una acción aunque haya sido llevada a cabo
   
   X 5. Queda estrictamente prohibido el acoso sexual a CUALQUIER intengrante del Canal.
   
-6. Queda Prohibido el uso de Multicuentas.
+  X 6. Queda Prohibido el uso de Multicuentas.
 
-7. Se debe esperar el tiempo de expulsión correspondiente, si encuentras que tu expulsión ha sido injusta. Puedes utilizar el foro en el apartado corerspondiente.
-8. Las coversaciones deben de apegarse al topico relacionado en cada canal.
-9. Procura que tu comentario vaya en un solo párrafo no generes varias lineas con una sola duda, es más fácil entenderte si lo haces todo en un solo párrafo.
+  X 7. Se debe esperar el tiempo de expulsión correspondiente, si encuentras que tu expulsión ha sido injusta. Puedes   utilizar el foro en el apartado corerspondiente.
+
+  X. 8. Las coversaciones deben de apegarse al topico relacionado en cada canal.
+
+  X. 9. Procura que tu comentario vaya en un solo párrafo no generes varias lineas con una sola duda, es más fácil entenderte si lo haces todo en un solo párrafo.
  
-X 10. En tu perfil, avatar y texto personal queda prohibido tener contenidos racistas y/o pornográficos.
+  X 10. En tu perfil, avatar y texto personal queda prohibido tener contenidos racistas y/o pornográficos.
