@@ -24,53 +24,32 @@ Slack viene equipado con el popular set de iconos `emoji` y permite su utilizaci
 
 El uso de mayúsculas está muy restringido en el mundo de internet en general y la mensajería escrita no es una excepción. Las mayúsculas suelen ser interpretadas con intenciones imperativas o como "gritos" más que como una forma de resalto. Como siempre, de nuevo apelar al sentido común sobre si EN OCASIONES puede merecer la pena utilizarlas para resaltar partes de contenido concretas.
 
-### X. Spam. El odiado contenido publicitario.
+### 5. Spam. El odiado contenido publicitario.
 
 Con esta regla no se pretende cohibir a ningún usuario de compartir cualquier tipo de contenido. De nuevo, rogamos se haga un uso responsable y se aplique el sentido común. Desde la comunidad se intenta ayudar a todos los usuarios que la conforman y no se tomará como spam si un usuario comparte por ejemplo su más reciente aplicación que, a pesar de ser de pago, puede resultar de utilidad para algún usuario, siempre y cuando sea una alusión esporádica.
 
-### X. A trabajar. No sacrifiques tu productividad por el Slack.
+### 6. A trabajar. No sacrifiques tu productividad por el Slack.
 
 Slack puede producir adicción igual que cualquier otra plataforma (WhatsApp, Facebook, ...). Desde Laraveles rogamos se haga un uso responsable de la herramienta -como se debería hacer con cualquier otra- para que la productividad del usuario no vaya en detrimento. 
 
-### X. Gracias por ser. Gracias por estar.
+### 7. Gracias por ser. Gracias por estar.
 
 Todos los usuarios que forman la comunidad están en ella de forma voluntaria y por diversos motivos. Bien estén ahí para ayudar, encontrar ayuda, aprender, enseñar o cualquier otro interés final, hay que tener siempre en consideración que cualquier participación se realiza de forma voluntaria, por lo que de cualquier modo, se debería **agradecer** cualquier tipo de contribución de un usuario y **nunca exigir** una respuesta o una solución a un problema concreto.
 
 A todos nos gusta que nos agradezcan una acción aunque haya sido llevada a cabo de forma voluntaria o altruista. Esa sensación puede producir hasta cierta adicción, por lo que un usuario que se siente agradecido es más probable que ayude o colabore con otros que uno que no se siente así. Por otro lado, exigencias y falta de agradecimiento derivan en pérdidas de interés, por lo que de un modo u otro, afectará a otros usuarios.
 
-### X. No Tengas más de una cuenta.
+### 8. ¿Multicuentas? Una cuenta es más que suficiente.
 
-Todos los usuarios que forman la comunidad están en ella para poderte ayudar y ser ayudados, sin embargo muchos se confundirían en un día de ven con una cuenta y al siguiente tienes otra, por esto y para mantener el orden en el slack te pedimos que no cres más de una cuenta o intentes hacerte pasar por otra persona.
+Todos los usuarios que forman la comunidad están en ella para poderte ayudar y ser ayudados. Sin embargo muchos se confundirían si en ocasiones hay usuarios con una cuenta y al siguiente con otra. Es por esto y para mantener el orden en el slack, rogamos pedimos que no crear más de una cuenta.
 
-### X. ¿Fuíste Sancionado Injustamente?
-  
-Todos los usuarios están de forma voluntaria y tambien sabemos que se pueden cometer errores, para ello si crees que tu expulsión ha sido un error, puedes escribir a `slack@laraveles.com` donde se dará seguimiento a tu caso asignandoselo a un administrador.
+### 9. Un canal. Un tema.
 
-    **Los tiempos de Expulsión quedan a discreción del Moderador y/o Administrador**
+Existen varios canales a disposición de los usuarios con diferentes tópicos a tratar en cada uno de ellos. Se ruega que las conversaciones no se alejen del tema principal del canal. Cada usuario presta atención en un canal por la información que en este se comparte, resultará incómodo para este usuario encontrarse con información irrelevante.
 
-### X. No Pierdas el Tópico de un Canal
+Si se considera que un nuevo canal es necesario o puede aportar beneficio al servicio, por favor, contactar con algún miembro de la administración para proponerlo o enviar un e-mail a `slack [arroba] laraveles.com`.
 
-A cualquiera le molesta que le interrumpan una charla que esta interesante y más si es una duda que tengas y te están apoyando por ende, te pedimos que no interrumpas o pierdas el hilo con temás diferentes a los que se tratan en los respectivos canales, todas las dudas se tratan de resolver u orientar para su solución.
+### 10. Incumplo las normas, ¿y qué?
 
+Si se han incumplido de forma reiterada las reglas detalladas en este documento, se procederá a la inhabilitación de la cuenta del usuario. Esta inhabilitación puede ser de forma temporal o permanente en función de la gravedad de la infracción.
 
-#I. Channels en General
-  
-  X 1. Queda estrictamente prohibido mensajes con contenido racista, porno o hacking.
-  
-  X 2. Solo se puede utilizar mayúsculas para destacar una idea y no para un texto entero o parte de el.
-  
-  X 3. El uso de Reacciones, solo se permitirán 2 Reacciones por usuario en cada comentario.
-  
-  X 4. Está Prohibido Enviar contenido Masivos (Spam)
-  
-  X 5. Queda estrictamente prohibido el acoso sexual a CUALQUIER intengrante del Canal.
-  
-  X 6. Queda Prohibido el uso de Multicuentas.
-
-  X 7. Se debe esperar el tiempo de expulsión correspondiente, si encuentras que tu expulsión ha sido injusta. Puedes   utilizar el foro en el apartado corerspondiente.
-
-  X. 8. Las coversaciones deben de apegarse al topico relacionado en cada canal.
-
-  X. 9. Procura que tu comentario vaya en un solo párrafo no generes varias lineas con una sola duda, es más fácil entenderte si lo haces todo en un solo párrafo.
- 
-  X 10. En tu perfil, avatar y texto personal queda prohibido tener contenidos racistas y/o pornográficos.
+Si se considera que una expulsión se ha realizado de forma injusta o que existe algún error, escribir a `slack [arroba] laraveles.com`.
