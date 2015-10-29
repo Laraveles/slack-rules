@@ -53,3 +53,9 @@ Si se considera que un nuevo canal es necesario o puede aportar beneficio al ser
 Si se han incumplido de forma reiterada las reglas detalladas en este documento, se procederá a la inhabilitación de la cuenta del usuario. Esta inhabilitación puede ser de forma temporal o permanente en función de la gravedad de la infracción.
 
 Si se considera que una expulsión se ha realizado de forma injusta o que existe algún error, escribir a `slack [arroba] laraveles.com`.
+
+## Contribuir
+
+¿Crees que puedes ayudar a mejorar estas reglas? ¿Algo se ha quedado en el tintero? 
+
+Contribuir a este documento es posible vía PR o enviando un e-mail a `slack [arroba] laraveles.com`.
