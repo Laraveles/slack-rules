@@ -52,7 +52,11 @@ Existen varios canales a disposición de los usuarios con diferentes tópicos a 
 
 Si se considera que un nuevo canal es necesario o puede aportar beneficio al servicio, por favor, contactar con algún miembro de la administración para proponerlo o enviar un e-mail a `slack [arroba] laraveles.com`.
 
-### 11. Incumplo las normas, ¿y qué?
+### 11. No a la piratería, ¡Todos nos esforzamos!
+
+Recordando que esto es una práctica ilegal, en laraveles queremos que se conviva de una forma agradable y PROFESIONAL por lo qué prohibimos la conducta de solicitar o publicar contenido "Pirata" esto nos permitirá llegar mucho más lejos como la comunidad de soporte español y profesionales.
+
+### 12. Incumplo las normas, ¿y qué?
 
 Si se han incumplido de forma reiterada las reglas detalladas en este documento, se procederá a la inhabilitación de la cuenta del usuario. Esta inhabilitación puede ser de forma temporal o permanente en función de la gravedad de la infracción.
 
