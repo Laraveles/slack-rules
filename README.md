@@ -54,7 +54,7 @@ Si se considera que un nuevo canal es necesario o puede aportar beneficio al ser
 
 ### 11. No a la piratería, ¡Todos nos esforzamos!
 
-Recordando que esto es una práctica ilegal, en laraveles queremos que se conviva de una forma agradable y PROFESIONAL por lo qué prohibimos la conducta de solicitar o publicar contenido "Pirata" esto nos permitirá llegar mucho más lejos como la comunidad de soporte español y profesionales.
+Recordando que esto es una práctica ilegal, en laraveles queremos que se conviva de una forma agradable y PROFESIONAL por lo qué prohibimos la conducta de solicitar o publicar contenido "Pirata". Esto nos permitirá llegar mucho más lejos como la comunidad de soporte español y profesionales.
 
 ### 12. Incumplo las normas, ¿y qué?
 
