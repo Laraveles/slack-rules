@@ -62,6 +62,16 @@ Si se han incumplido de forma reiterada las reglas detalladas en este documento,
 
 Si se considera que una expulsión se ha realizado de forma injusta o que existe algún error, escribir a `slack [arroba] laraveles.com`.
 
+### 13. Gracias por Ayudar
+
+Se ha Implementado un Sistema de "Puntos" los cuales puedes brindar al usuario que te haya apoyado en alguna duda o hayas aprendido algo de él, de esta manera estarás calificando el soporte de los usuarios en la comunidad. Está claro que la introducción de esta nueva herramienta puede llevar a que se haga un mal uso de ella, es por ello que te pedimos que no hagas una abuso de la misma, los moderadores de la comunidad podrán darte una sanción si consideran que estás haciendo un mal uso de la herramienta.
+
+Para poder calificar con un Punto Positivo a un usuario deberás escribir lo siguientes: `@NICKDELUSUARIO++`
+Para poder calificar con un Punto negativo a un usuario por alguna mala intencion en la comunidad: `@NICKDELUSUARIO--`
+
+El Historial de los usuarios con Puntos negativos será analizado constantemente para poder verificar el porqué de dichas puntuaciones.
+
+
 ## Contribuir
 
 ¿Crees que puedes ayudar a mejorar estas reglas? ¿Algo se ha quedado en el tintero? 
