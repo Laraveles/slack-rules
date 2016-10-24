@@ -71,6 +71,10 @@ Para poder calificar con un Punto negativo a un usuario por alguna mala intencio
 
 El Historial de los usuarios con Puntos negativos será analizado constantemente para poder verificar el porqué de dichas puntuaciones.
 
+### 14. La Identidad es primero
+
+Agradecemos que puedas tomarte unos minutos de tu tiempo para poder completar tu perfil, es necesario que puedas identificarte con un nombre y apellido será suficiente, recuerda también no colocarte nicks que puedan ser tomados como insultos u ofensivos. 
+
 
 ## Contribuir
 
