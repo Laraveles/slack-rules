@@ -16,9 +16,27 @@ Aunque queda bastante claro, se mencionará que acosos, insultos, contenido raci
 
 Muchas de las dudas que se resuelven a diario en la comunidad están muy bien expresadas y explicadas en la documentación, si realizas una pregunta sin antes mirar la documentación estás quitándole la oportunidad a una duda de pronto mucho mas difícil de responder y que puede beneficiar mas a la comunidad.
 
-### 3. Sentido común. No todo es lo que parece.
+### 3. Sentido común. 
+
+#### 3.1 No preguntes si puedes preguntar o si hay alguien conectado.
+
+Evita preguntas simples como *"¿Hay alguien?"*, *"¿Puedo preguntar?"*, *"¿alguien sabe cómo [...]?"* u otra cuya respuesta será un simple **"Sí"**; asume que es **"Sí"** y omítela. No te quedes esperando una respuesta a una pregunta que por sí sola es redundante: 1, en el canal se puede ver quién está conectado; 2, al preguntar ya estás preguntando; y 3, si alguien es experto, lo demostrará al contestar cuando la describas.
+
+Si tienes alguna duda, preséntala directamente describiéndola. Así te ahorras tiempo tú y fomentas la participación de alguno que conozca del tema. 
+
+Recuerda que en el chat de Slack puedes usar punto y seguido, punto y aparte y escribir mensajes multilínea:
+
+> Hola. Estaba haciendo [...] y me preguntaba si [...]. 
+>
+> ¿Alguien conoce del tema?.
+
+Esto es especialmente apreciado cuando el canal no está muy activo.
+
+
+#### 3.2 No todo es lo que parece.
 
 La mensajería escrita siempre ha contado con la dificultad de acompañar a una expresión escrita con una entonación adecuada o un lenguaje no verbal que ayude a aclarar si una afirmación `X` es de caracter humorístico, serio, amigable, etc. Es por esto que pedimos sentido común para prevenir mal interpretaciones.
+
 
 ### 4. Abuso de emojis. Utiliza tus propias palabras.
 
